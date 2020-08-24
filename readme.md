@@ -1,1 +1,1 @@
-Hi!! My name is Chauncey Daniels. I am a Software Engineer-in-training at General Assembly. I'm in the process of creating an interactive  Weather app that shows visual weather conditiona based on your location! Follow me for more updates and projects!
+Hi!! My name is Chauncey Daniels. I am a Software Engineer-in-training at General Assembly. I've created an NPM package that allows you to download, install  and view my npm resume! The command is ```npm i resu-me```. Enjoy and be sure to follow to join me on my Software Engineering journey!

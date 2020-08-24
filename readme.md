@@ -1,0 +1,1 @@
+Hi!! My name is Chauncey Daniels. I am a Software Engineer-in-training at General Assembly. I'm in the process of creating an interactive  Weather app that shows visual weather conditiona based on your location! Follow me for more updates and projects!

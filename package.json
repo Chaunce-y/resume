@@ -1,6 +1,6 @@
 {
   "name": "chauncey-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my resume!",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   "license": "ISC",
 
   "bin": {
-    "your-command-here": "./index.js"
+    "resu-ME": "./index.js"
   }
 }
